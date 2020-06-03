@@ -10,25 +10,25 @@ date:   2015-04-22 12:12:12
 ### A beautiful end
  
 
-An end of an era Of darkness and fear
-A start of an era of fairness and cheer
-Here we stand 
-And here we start
-On the way of progress
-To the journey of success
+An end of an era Of darkness and fear<br />
+A start of an era of fairness and cheer<br />
+Here we stand <br />
+And here we start<br />
+On the way of progress<br />
+To the journey of success<br />
 
 
-Let's fight like never before
-And Let's win like never before
-Creating an era 
-That existed never before
+Let's fight like never before<br />
+And Let's win like never before<br />
+Creating an era <br />
+That existed never before<br />
 
-A world full of happiness
-A world full of craziness
-A life full of ambition
-With a vigorous compassion
+A world full of happiness<br />
+A world full of craziness<br />
+A life full of ambition<br />
+With a vigorous compassion<br />
 
-we may fall from there
-we may fail in there 
-But we will continue
-And we will win in there
+we may fall from there<br />
+we may fail in there <br />
+But we will continue<br />
+And we will win in there<br />
