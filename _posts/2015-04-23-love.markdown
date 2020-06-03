@@ -1,5 +1,5 @@
 ---
-title:  "LOVE- a Destruction Or A Distraction"
+title:  "LOVE- A Destruction Or A Distraction"
 subtitle: "Claiming to be the most appealing distraction.."
 author: "Akshita"
 avatar: "img/authors/wferr.png"
@@ -11,6 +11,7 @@ date:   2015-04-23 12:12:12
 
 
 Claiming to be the most appealing distraction..<br />
+
 Creating a way of absolute destruction..<br />
 Charming as morning sunshine..<br />
 pleasing as the parky moonlight..<br />
